@@ -1,3 +1,7 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Feminna" src="art/header-light.png">
+</picture>
 <div align="center">
 
 <picture>
