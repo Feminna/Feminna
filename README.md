@@ -41,7 +41,6 @@ Currently pursuing Computer Science Engineering while exploring product developm
 - 🌸 Building modern web & mobile applications
 - 🎨 Designing intuitive UI/UX experiences
 - 🚀 Exploring new technologies
-- 🤝 Contributing to open source
 - 📚 Constantly learning and improving
 - 💡 Turning ideas into products
 
@@ -58,23 +57,55 @@ Currently pursuing Computer Science Engineering while exploring product developm
 
 <div align="center">
 
-# 🚀 Featured Projects
+<div align="center">
 
-<a href="https://github.com/Feminna/HeritageOCR">
-  <img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=HeritageOCR&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4](https://i.pinimg.com/originals/ef/51/a8/ef51a8acba57cb066a5a7fac167d06c2.gif)" />
-</a>
+## 🚀 Featured Projects
 
-<a href="https://github.com/Feminna/blessing-associates">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=blessing-associates&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/Feminna/Recipie-Recommendation-App">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=Recipie-Recommendation-App&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
-</a>
+<td align="center" width="25%">
 
-<a href="https://github.com/Feminna/smart-games-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=smart-games-ai&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
-</a>
+### 📜 HeritageOCR
+
+Historical document digitization using OCR
+
+<a href="https://github.com/Feminna/HeritageOCR">View Project →</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏢 Blessing Associates
+
+Professional registration services platform
+
+<a href="https://github.com/Feminna/blessing-associates">View Project →</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🍳 Recipe App
+
+Smart recipe recommendation application
+
+<a href="https://github.com/Feminna/Recipie-Recommendation-App">View Project →</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮 AI Games Lab
+
+Interactive games enhanced with AI
+
+<a href="https://github.com/Feminna/simple-games-with-AI-integration-">View Project →</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -84,7 +115,7 @@ Currently pursuing Computer Science Engineering while exploring product developm
 
 # 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,java,python,cpp,c,mysql,postgres,mongodb,firebase,supabase,flutter,dart,figma,git,github,vscode,linux,docker,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,react,java,python,cpp,c,mysql,supabase,flutter,figma,git,github,vscode&theme=light" />
 
 </div>
 
@@ -168,16 +199,8 @@ jobs:
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_X_PROFILE]">
-<img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
 <a href="[YOUR_INSTAGRAM]">
 <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="[YOUR_TIKTOK]">
-<img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="[YOUR_YOUTUBE]">
@@ -196,8 +219,8 @@ jobs:
 
 ### 💖 *Thanks for visiting my profile!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"/>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"/>
 </div>
 <!--
 **Feminna/Feminna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
