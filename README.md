@@ -4,11 +4,6 @@
 </picture>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF69B4,50:EF93C4,100:F8BBD0&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Building%20Beautiful%20Things%20with%20Code&descAlignY=60&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Building%20Beautiful%20Things%20with%20Code&descAlignY=60&animation=fadeIn">
-  <img width="100%" alt="GitHub Banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF69B4,50:EF93C4,100:F8BBD0&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Building%20Beautiful%20Things%20with%20Code&descAlignY=60&animation=fadeIn">
-</picture>
 
 # Hey there, I'm **Feminna** 👋
 
