@@ -56,101 +56,25 @@ Currently pursuing Computer Science Engineering while exploring product developm
 
 <div align="center">
 
-# 🚀 Featured Projects
-
-<a href="REPO_LINK">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=heritage-ocr&theme=transparent" />
-</a>
-
-<a href="REPO_LINK">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=arbor&theme=transparent" />
-</a>
-
-<a href="REPO_LINK">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=e-library-system&theme=transparent" />
-</a>
-
-<a href="REPO_LINK">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=blessing-associates&theme=transparent" />
-</a>
-
-</div>
+<div align="center">
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌿 Arbor
-
-AI-powered crop exchange ecosystem
-
-🌱 Plant disease detection  
-📊 Smart crop tracking  
-🏷️ QR freshness verification  
-🤝 Community marketplace
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+<a href="https://github.com/Feminna/HeritageOCR">
+  <img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=HeritageOCR&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4](https://i.pinimg.com/originals/ef/51/a8/ef51a8acba57cb066a5a7fac167d06c2.gif)" />
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-### 📜 Heritage OCR
-
-Digitizing historical documents using OCR
-
-📄 Image enhancement  
-🔍 Text extraction  
-✏️ Manual correction tools  
-🌐 Regional language support
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+<a href="https://github.com/Feminna/blessing-associates">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=blessing-associates&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
 </a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 📚 E-Library System
-
-Modern library management platform
-
-📖 Book borrowing  
-👤 Role-based access  
-🔎 Advanced search  
-🗄️ Inventory tracking
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+<a href="https://github.com/Feminna/Recipie-Recommendation-App">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=Recipie-Recommendation-App&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-### 🏢 Blessing Associates
-
-Professional registration services platform
-
-⚛️ React frontend  
-📍 Google Maps integration  
-💬 WhatsApp API  
-📨 Contact automation
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+<a href="https://github.com/Feminna/smart-games-ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Feminna&repo=smart-games-ai&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" />
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
