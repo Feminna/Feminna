@@ -28,9 +28,13 @@
 
 <td width="65%" valign="top">
 
-### ✨ Hello!
+### ✨ From Design to Development
 
-I'm **Feminna**, a passionate **Software developer** who enjoys creating elegant digital experiences and solving real-world problems through technology.
+I started with UI/UX design, creating interfaces and user experiences that felt intuitive and meaningful. Over time, curiosity pushed me deeper into development, where I discovered the joy of building the ideas I designed.
+
+Today, I work across design and development, creating full-stack applications, mobile experiences, and AI-powered solutions.
+
+Currently pursuing Computer Science Engineering while exploring product development, AI, and open-source technologies.
 
 ### 💖 What I Do
 
@@ -41,23 +45,110 @@ I'm **Feminna**, a passionate **Software developer** who enjoys creating elegant
 - 📚 Constantly learning and improving
 - 💡 Turning ideas into products
 
-### 🌷 Currently
+</td>
 
-- 🔭 Working on **[Heritage OCR]**
-- 🌱 Learning **[AI and Basics]**
-- 👯 Open to collaborations
-- 💬 Ask me about **[UI/UX]**
-- 📫 Reach me: **[gpfemi@gmail.com]**
-- ⚡ Fun fact: **...**
+</tr>
+</table>
+
+</div>
+<div align="center">
+
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<a href="REPO_LINK">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=heritage-ocr&theme=transparent" />
+</a>
+
+<a href="REPO_LINK">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=arbor&theme=transparent" />
+</a>
+
+<a href="REPO_LINK">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=e-library-system&theme=transparent" />
+</a>
+
+<a href="REPO_LINK">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=blessing-associates&theme=transparent" />
+</a>
+
+</div>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌿 Arbor
+
+AI-powered crop exchange ecosystem
+
+🌱 Plant disease detection  
+📊 Smart crop tracking  
+🏷️ QR freshness verification  
+🤝 Community marketplace
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+</a>
 
 </td>
 
-<td width="35%" align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+### 📜 Heritage OCR
+
+Digitizing historical documents using OCR
+
+📄 Image enhancement  
+🔍 Text extraction  
+✏️ Manual correction tools  
+🌐 Regional language support
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📚 E-Library System
+
+Modern library management platform
+
+📖 Book borrowing  
+👤 Role-based access  
+🔎 Advanced search  
+🗄️ Inventory tracking
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+</a>
 
 </td>
 
+<td width="50%" align="center">
+
+### 🏢 Blessing Associates
+
+Professional registration services platform
+
+⚛️ React frontend  
+📍 Google Maps integration  
+💬 WhatsApp API  
+📨 Contact automation
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-EF93C4?style=for-the-badge" />
+</a>
+
+</td>
 </tr>
 </table>
 
