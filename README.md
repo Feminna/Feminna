@@ -141,7 +141,7 @@ Interactive games enhanced with AI
 
 # 📊 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=feminna&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
 
 </div>
 
