@@ -116,8 +116,6 @@ Interactive games enhanced with AI
 
 <div align="center">
 
-# 📈 GitHub Analytics
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=feminna&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=F8BBD0&dates=F8BBD0&border=EF93C4"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=feminna&show_icons=true&theme=transparent&icon_color=FF69B4&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4&rank_icon=github"/>
@@ -132,8 +130,6 @@ Interactive games enhanced with AI
 
 <div align="center">
 
-# 📊 Contribution Graph
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=feminna&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
 
 </div>
@@ -141,8 +137,6 @@ Interactive games enhanced with AI
 ---
 
 <div align="center">
-
-# 🐍 Contribution Snake
 
 <!--
 GitHub Action Required:
@@ -202,7 +196,7 @@ jobs:
 
 <div align="center">
 
-### 💖 *Thanks for visiting my profile!*
+### 💖 *Still learning!*
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"/>
