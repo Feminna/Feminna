@@ -11,9 +11,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=Followers&labelColor=FF69B4&color=EF93C4" />
-<img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=FF69B4&color=EF93C4" />
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=EF93C4&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/feminna?style=for-the-badge&logo=github&label=Followers&labelColor=FF69B4&color=EF93C4" />
+<img src="https://img.shields.io/github/stars/feminna?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=FF69B4&color=EF93C4" />
+<img src="https://komarev.com/ghpvc/?username=feminna&style=for-the-badge&color=EF93C4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -36,13 +36,6 @@ Today, I work across design and development, creating full-stack applications, m
 
 Currently pursuing Computer Science Engineering while exploring product development, AI, and open-source technologies.
 
-### 💖 What I Do
-
-- 🌸 Building modern web & mobile applications
-- 🎨 Designing intuitive UI/UX experiences
-- 🚀 Exploring new technologies
-- 📚 Constantly learning and improving
-- 💡 Turning ideas into products
 
 </td>
 
@@ -125,13 +118,13 @@ Interactive games enhanced with AI
 
 # 📈 GitHub Analytics
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_USERNAME]&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=F8BBD0&dates=F8BBD0&border=EF93C4"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=feminna&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=F8BBD0&dates=F8BBD0&border=EF93C4"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&icon_color=FF69B4&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=feminna&show_icons=true&theme=transparent&icon_color=FF69B4&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4&rank_icon=github"/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feminna&layout=compact&theme=transparent&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4"/>
 
 </div>
 
@@ -195,19 +188,11 @@ jobs:
 
 # 🌐 Connect With Me
 
-<a href="[YOUR_LINKEDIN]">
+<a href="https://www.linkedin.com/in/feminna-g/">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_INSTAGRAM]">
-<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="[YOUR_YOUTUBE]">
-<img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:gpfemi@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
