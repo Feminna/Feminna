@@ -118,11 +118,13 @@ Interactive games enhanced with AI
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=feminna&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=F8BBD0&dates=F8BBD0&border=EF93C4"/>
 
+<br>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=feminna&show_icons=true&theme=transparent&icon_color=FF69B4&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4&rank_icon=github"/>
 
-<br><br>
+<br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feminna&layout=compact&theme=transparent&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feminna&layout=compact&theme=transparent&title_color=EF93C4&text_color=FFFFFF&border_color=EF93C4"/>
 
 </div>
 
